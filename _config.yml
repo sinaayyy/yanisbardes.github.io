@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Yanis Bardes"
 description              : &description "Yanis Bardes's academic portfolio - PhD student in AI at Université Paris-Saclay"
 url                      : https://sinaayyy.github.io
-baseurl                  : "/yanisbardes.github.io"
-repository               : "sinaayyy/yanisbardes.github.io"
+baseurl                  : ""
+repository               : "sinaayyy/sinaayyy.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
