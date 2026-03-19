@@ -13,11 +13,9 @@ Education
 ======
 * **Ph.D in Mathematics and Computer Science**, Université Paris-Saclay, 2024–2027 (expected)
   * Lincoln lab — Research on real-time waste detection by UAV via federated learning and multi-objective optimization
-  * MVA Master (ENS Paris-Saclay) — courses followed:
-    * Large Language Models
-    * Detection Theory and Industrial Applications
-    * Convex Optimization and Applications in Machine Learning
-    * Foundations of Distributed and Large-Scale Computing Optimization
+
+* **Master MVA (Mathématiques, Vision, Apprentissage)**, ENS Paris-Saclay, 2024–present
+  * Courses: Large Language Models, Detection Theory and Industrial Applications, Convex Optimization and Applications in Machine Learning, Foundations of Distributed and Large-Scale Computing Optimization
 
 * **Double Master's in Mathematics, Computer Science & Data Science (MIDS)**, Université Paris Cité, 2021–2023
   * Grade: >14/20

@@ -95,6 +95,15 @@
       "courses": []
     },
     {
+      "institution": "ENS Paris-Saclay",
+      "area": "Mathematics, Vision, Learning (MVA)",
+      "studyType": "Master MVA",
+      "startDate": "2024",
+      "endDate": "",
+      "gpa": null,
+      "courses": ["Large Language Models", "Detection Theory and Industrial Applications", "Convex Optimization and Applications in Machine Learning", "Foundations of Distributed and Large-Scale Computing Optimization"]
+    },
+    {
       "institution": "Université Paris Cité",
       "area": "Mathematics - Computer Science - Data Science (MIDS)",
       "studyType": "Double Master's Degree",
