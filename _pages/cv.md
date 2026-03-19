@@ -11,10 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics and Computer Science, Université Paris-Saclay, 2024–2027 (expected)
-* Double Master's in Mathematics, Computer Science & Data Science (MIDS, >14/20), Université Paris Cité, 2021–2023
-* Bachelor's in Mathematics (with honors), Université Paris Est Créteil, 2018–2021
-* Baccalauréat Scientifique — Speciality Mathematics, Lycée Emily Brontë, 2018
+* **Ph.D in Mathematics and Computer Science**, Université Paris-Saclay, 2024–2027 (expected)
+  * Lincoln lab — Research on real-time waste detection by UAV via federated learning and multi-objective optimization
+  * MVA Master (ENS Paris-Saclay) — courses followed:
+    * Large Language Models
+    * Detection Theory and Industrial Applications
+    * Convex Optimization and Applications in Machine Learning
+    * Foundations of Distributed and Large-Scale Computing Optimization
+
+* **Double Master's in Mathematics, Computer Science & Data Science (MIDS)**, Université Paris Cité, 2021–2023
+  * Grade: >14/20
+
+* **Bachelor's in Mathematics** (with honors), Université Paris Est Créteil, 2018–2021
+
+* **Baccalauréat Scientifique** — Speciality Mathematics, Lycée Emily Brontë – Lognes, 2018
 
 Work Experience
 ======
